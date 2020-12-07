@@ -1,6 +1,7 @@
 from validate_docbr import CPF
 from validate_docbr import CNPJ
 
+
 # Fazer o curso de expressões regulares no site da Alura
 
 class Documento:

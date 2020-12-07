@@ -1,6 +1,5 @@
 import requests
 
-
 class BuscaEndereco:
 
     def __init__(self, cep):
